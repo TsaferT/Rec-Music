@@ -9,3 +9,5 @@
 - [Александра Бондаренко](https://github.com/sashalieb)
 - [Дмитрий Зебзеев](https://github.com/TsaferT)
 - [Кирилл Сексяев](https://github.com/sexyaev)
+
+- ![](cat.gif)
