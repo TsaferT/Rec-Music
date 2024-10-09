@@ -10,4 +10,4 @@
 - [Дмитрий Зебзеев](https://github.com/TsaferT)
 - [Кирилл Сексяев](https://github.com/sexyaev)
 
-- ![](cat.gif)
+![](cat.gif)
