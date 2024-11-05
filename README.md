@@ -11,3 +11,7 @@
 - [Кирилл Сексяев](https://github.com/sexyaev)
 
 ![](cat.gif)
+
+## Макет дизайна сайта 
+
+![](designe.png)
