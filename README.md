@@ -10,7 +10,7 @@
 - [Дмитрий Зебзеев](https://github.com/TsaferT)
 - [Кирилл Сексяев](https://github.com/sexyaev)
 
-![](cat.gif)
+![](documentation/cat.gif)
 
 ## Макет дизайна сайта 
 
