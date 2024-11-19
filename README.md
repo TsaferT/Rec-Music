@@ -10,7 +10,6 @@
 - [Дмитрий Зебзеев](https://github.com/TsaferT)
 - [Кирилл Сексяев](https://github.com/sexyaev)
 
-![](documentation/cat.gif)
 
 ## Макет дизайна сайта 🎵
 
@@ -39,5 +38,12 @@
 <p align="center">
   <img src="documentation/Frame4.png" alt="Готовая подборка" width="70%">
 </p>
+
+
+
+
+
+
+![](documentation/cat.gif)
 
 
